@@ -121,7 +121,7 @@ plt.scatter(cases, deaths, c='black', s=10)
 
 
 
-![png](output_10_1.png)
+![png](imagens/output_10_1.png)
 
 
 #### 3. Criando classe do Pam
@@ -228,7 +228,7 @@ pam.plot()
 ```
 
 
-![png](output_14_0.png)
+![png](imagens/output_14_0.png)
 
 
 
@@ -335,7 +335,7 @@ pam.plot()
 ```
 
 
-![png](output_20_0.png)
+![png](imagens/output_20_0.png)
 
 
 
@@ -405,7 +405,7 @@ plt.scatter(cases, deaths, c='black', s=10)
 
 
 
-![png](output_29_1.png)
+![png](imagens/output_29_1.png)
 
 
 
@@ -420,7 +420,7 @@ pam.plot()
 ```
 
 
-![png](output_31_0.png)
+![png](imagens/output_31_0.png)
 
 
 
@@ -493,5 +493,5 @@ elbow_plot(dataset, 8)
 ```
 
 
-![png](output_38_0.png)
+![png](imagens/output_38_0.png)
 
